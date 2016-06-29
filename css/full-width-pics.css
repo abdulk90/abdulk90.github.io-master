@@ -65,6 +65,10 @@ footer {
     }
 }
 
-.ulx {
-    list-style-image: url('../img/arrow.gif');
+.exp {
+    text-align: center;
+}
+
+.exptxt {
+    font: cursive;c
 }
